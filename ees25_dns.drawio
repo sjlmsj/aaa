@@ -138,12 +138,6 @@
         <mxCell id="nIllarnbMcqNCnNrRPwP-58" value="TSP R53" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="640" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nIllarnbMcqNCnNrRPwP-65" value="DNS服务器在 TSP？是转发到DC还是解析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="194" y="320" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="nIllarnbMcqNCnNrRPwP-66" value="DNS目标是获取NS的公网ip地址，而不是app的内网地址" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="194" y="350" width="320" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="u-bQwdPhD2mBuo2kB37u-1" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="53" y="1000" width="60" height="40" as="geometry" />
         </mxCell>
