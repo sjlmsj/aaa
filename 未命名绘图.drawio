@@ -109,7 +109,7 @@
         <mxCell id="vqEWgfP7RBYQq6a4k92P-46" value="多人" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-70" y="310" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vqEWgfP7RBYQq6a4k92P-47" value="多人" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="vqEWgfP7RBYQq6a4k92P-47" value="一人" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="60" y="320" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
