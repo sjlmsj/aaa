@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.1">
   <diagram name="第 1 页" id="BSCWauZXV5LeKHG2UdXg">
-    <mxGraphModel dx="1540" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1924" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           <mxGeometry x="30" y="410" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vqEWgfP7RBYQq6a4k92P-7" value="option2: Resp user" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="290" width="70" height="40" as="geometry" />
+          <mxGeometry x="80" y="290" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vqEWgfP7RBYQq6a4k92P-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.537;entryY=-0.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vqEWgfP7RBYQq6a4k92P-1" target="vqEWgfP7RBYQq6a4k92P-3">
           <mxGeometry relative="1" as="geometry" />
@@ -41,28 +41,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vqEWgfP7RBYQq6a4k92P-15" value="product" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="200" width="90" height="50" as="geometry" />
+          <mxGeometry x="350" y="200" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vqEWgfP7RBYQq6a4k92P-16" value="sub_product_owner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="285" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vqEWgfP7RBYQq6a4k92P-17" value="product_owner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="285" width="110" height="50" as="geometry" />
+          <mxGeometry x="350" y="285" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vqEWgfP7RBYQq6a4k92P-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vqEWgfP7RBYQq6a4k92P-18" target="vqEWgfP7RBYQq6a4k92P-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vqEWgfP7RBYQq6a4k92P-18" value="Domian" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="200" width="90" height="50" as="geometry" />
+          <mxGeometry x="500" y="200" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vqEWgfP7RBYQq6a4k92P-19" value="Premie" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="200" width="90" height="50" as="geometry" />
+          <mxGeometry x="640" y="200" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vqEWgfP7RBYQq6a4k92P-20" value="product_owner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="285" width="110" height="50" as="geometry" />
+        <mxCell id="vqEWgfP7RBYQq6a4k92P-20" value="Domian_owner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="285" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vqEWgfP7RBYQq6a4k92P-21" value="product_owner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="285" width="110" height="50" as="geometry" />
+        <mxCell id="vqEWgfP7RBYQq6a4k92P-21" value="premie_owner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="285" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vqEWgfP7RBYQq6a4k92P-27" value="CONNECTIT:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="100" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vqEWgfP7RBYQq6a4k92P-28" value="3PT:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="600" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vqEWgfP7RBYQq6a4k92P-30" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;另一套逻辑？&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;取值昨天和zhonglei看的不对应&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="630" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vqEWgfP7RBYQq6a4k92P-31" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;后期如果用户想在OPCP中做SSP,EG需要添加相应的role在ConnectIT中（是否有可实现性？）&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-115" y="464.5" width="700" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
